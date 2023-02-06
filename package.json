@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.2.3",
+    "nodemon": "^2.0.20"
+  },
+  "name": "swapi-starwarsapi",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "João Victor Oliveira",
+  "license": "ISC",
+  "description": ""
+}
